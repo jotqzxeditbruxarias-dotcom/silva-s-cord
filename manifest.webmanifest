@@ -1,0 +1,17 @@
+{
+  "name": "Silva's Cord",
+  "short_name": "Silva's Cord",
+  "description": "Comunidades, canais e conversas.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#0b0b12",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
